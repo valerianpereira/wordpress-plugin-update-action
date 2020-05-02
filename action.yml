@@ -1,0 +1,6 @@
+name: 'WordPress Plugin Update'
+description: 'Update your WordPress Plugins'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
